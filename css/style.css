@@ -1,0 +1,11 @@
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+#poop{
+    text-align: center;
+    margin-top: 300px;
+    margin-bottom: 30px;
+}
